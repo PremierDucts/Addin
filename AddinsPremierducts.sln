@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddinsPremierducts", "AddinsPremierducts.csproj", "{35673B49-E9B7-4B07-84F6-EE03F348EED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addins", "Addins\Addins.csproj", "{5B5311AF-6630-400D-9906-B1BF4FE1139A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35673B49-E9B7-4B07-84F6-EE03F348EED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35673B49-E9B7-4B07-84F6-EE03F348EED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35673B49-E9B7-4B07-84F6-EE03F348EED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35673B49-E9B7-4B07-84F6-EE03F348EED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5311AF-6630-400D-9906-B1BF4FE1139A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5311AF-6630-400D-9906-B1BF4FE1139A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5311AF-6630-400D-9906-B1BF4FE1139A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5311AF-6630-400D-9906-B1BF4FE1139A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
